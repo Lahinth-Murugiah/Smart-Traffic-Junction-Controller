@@ -1,0 +1,22 @@
+# Microchip Studio / AVR build artifacts
+Debug/
+Release/
+.vs/
+*.hex
+*.eep
+*.elf
+*.map
+*.o
+*.obj
+*.d
+*.lst
+*.lss
+*.srec
+*.tmp
+*.log
+*.atsuo
+*.user
+# Operating system / editor
+.DS_Store
+Thumbs.db
+*.swp
