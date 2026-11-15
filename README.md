@@ -83,13 +83,6 @@ The final report and source identify the following differences from the full ass
 
 See **[Implementation notes](docs/IMPLEMENTATION_NOTES.md)** and **Section 7.4** of the report for the requirement-by-requirement comparison. Planned improvements should not be mistaken for implemented functionality.
 
-## Contributors
-
-- **M. Lahinth** — normal vehicle signal sequencing and ambient-light-based night mode.
-- **U. Lathussoban** — pedestrian request and countdown subsystem.
-
-**Academic year:** 2026 · **Group:** 14 · **Module:** IE3064
-
 ## Attribution and intended use
 
 Educational project documentation and source code only. No open-source reuse license has been granted. This is not a certified traffic-safety controller. Respect the university's academic-integrity requirements and the authors' rights.
