@@ -43,23 +43,6 @@ An embedded-systems demonstration developed for **IE3064 — Embedded Systems En
 
 **Wiring note:** Uno pins D0 and D1 are also used for serial communications. Review the project wiring before using the board's programming and serial interfaces.
 
-## Repository contents
-
-```text
-Smart-Traffic-Junction-Controller/
-├── README.md
-├── .gitignore
-├── src/
-│   └── Smart_Traffic_Junction_Controller.asm
-└── docs/
-    ├── Final_Report_Text.md
-    └── IMPLEMENTATION_NOTES.md
-```
-
-- **[Firmware source](src/Smart_Traffic_Junction_Controller.asm)** — complete submitted AVR Assembly source, preserved without logic edits.
-- **[Report text](docs/Final_Report_Text.md)** — searchable extraction from the full 34-page final report (original formatted PDF is not included in this GitHub commit).
-- **[Implementation notes](docs/IMPLEMENTATION_NOTES.md)** — documented behaviour, limitations and possible improvements.
-
 ## Build and hardware setup
 
 1. Install **Microchip Studio** and the AVR assembler/device support for **ATmega328P**.
